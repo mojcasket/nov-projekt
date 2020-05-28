@@ -1,0 +1,7 @@
+.idea/
+venv/
+
+#git init - creates empty git repository
+#git status - gives us status of git
+#git add. - add all new files to git
+#git commit - am "sort of message that makes sense"
